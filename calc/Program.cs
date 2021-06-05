@@ -17,10 +17,17 @@ namespace calc
                 case 1:
                     pluss(A, B);
                     break;
+                case 2:
+                    minus(A, B);
+                    break;
             }
             void pluss(int a, int b)
             {
-                Console.WriteLine(a + b);
+                Console.WriteLine(a + b);               
+            }
+            void minus(int a, int b)
+            {
+                Console.WriteLine(a - b);
             }
         }
     }
