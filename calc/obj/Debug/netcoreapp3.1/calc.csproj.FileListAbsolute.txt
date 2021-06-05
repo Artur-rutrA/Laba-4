@@ -1,0 +1,37 @@
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\project\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\project\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Yandex\YandexDisk\Studi\Программирование\2 курс\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\Artur\Desktop\Учёба\ПиОГИ\3 семестр\3_semestr\4 ЛАБА\первая часть\calc\calc\obj\Debug\netcoreapp3.1\calc.pdb
