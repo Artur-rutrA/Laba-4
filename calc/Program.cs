@@ -23,6 +23,9 @@ namespace calc
                 case 3:
                     multy(A, B);
                     break;
+                case 4:
+                    devide(A, B);
+                    break;
             }
 
             void pluss(int a, int b)
@@ -38,6 +41,14 @@ namespace calc
             void multy(int a, int b)
             {
                 Console.WriteLine(a * b);
+                
+            }
+
+            void devide(int a, int b)
+            {
+                double _1 = (double)a;
+                double _2 = (double)b;
+                Console.WriteLine(_1 / _2);
             }
         }
     }
