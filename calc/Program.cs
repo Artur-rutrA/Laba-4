@@ -20,14 +20,24 @@ namespace calc
                 case 2:
                     minus(A, B);
                     break;
+                case 3:
+                    multy(A, B);
+                    break;
             }
+
             void pluss(int a, int b)
             {
                 Console.WriteLine(a + b);               
             }
+
             void minus(int a, int b)
             {
                 Console.WriteLine(a - b);
+            }
+            
+            void multy(int a, int b)
+            {
+                Console.WriteLine(a * b);
             }
         }
     }
