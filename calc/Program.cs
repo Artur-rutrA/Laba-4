@@ -22,7 +22,6 @@ namespace calc
             {
                 Console.WriteLine(a + b);
             }
-
         }
     }
 }
